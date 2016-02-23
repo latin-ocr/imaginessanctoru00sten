@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./imaginessanctoru00sten_0089.png"; bbox 0 0 2028 2588; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 550 1 1850 94">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 550 1 1850 94">
+     <span class='ocr_line' id='line_1_1' title="bbox 550 1 1850 94; baseline 0.002 -17"><span class='ocrx_word' id='word_1_1' title='bbox 550 4 607 77; x_wconf 83' lang='lat' dir='ltr'>s.</span> <span class='ocrx_word' id='word_1_2' title='bbox 652 1 1294 80; x_wconf 79' lang='lat' dir='ltr'><strong>ELISABETHA.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1773 33 1850 94; x_wconf 63' lang='grc' dir='ltr'>,ς</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 291 212 1496 1897">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 291 212 1496 1897">
+     <span class='ocr_line' id='line_1_2' title="bbox 291 212 1496 1897; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 291 212 1496 1897; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 298 1897 1427 1952">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 298 1897 1427 1952">
+     <span class='ocr_line' id='line_1_3' title="bbox 298 1897 1427 1952; baseline -0.008 -7"><span class='ocrx_word' id='word_1_5' title='bbox 298 1909 301 1929; x_wconf 75' lang='lat'><em>2</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 337 1905 623 1944; x_wconf 47' lang='lat' dir='ltr'>,annexus-set,</span> <span class='ocrx_word' id='word_1_7' title='bbox 633 1905 702 1941; x_wconf 62' lang='lat' dir='ltr'>mv</span> <span class='ocrx_word' id='word_1_8' title='bbox 720 1899 1100 1939; x_wconf 65' lang='lat' dir='ltr'>PROPI-OETISSAE</span> <span class='ocrx_word' id='word_1_9' title='bbox 1118 1897 1427 1952; x_wconf 54' lang='lat' dir='ltr'>Quam,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 345 1936 1472 2059">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 294 1936 1472 2059">
+     <span class='ocr_line' id='line_1_4' title="bbox 345 1936 1472 2059; baseline -0.001 -16.043"><span class='ocrx_word' id='word_1_10' title='bbox 345 1946 770 2059; x_wconf 38' lang='lat' dir='ltr'>mmm</span> <span class='ocrx_word' id='word_1_11' title='bbox 792 1936 1472 2047; x_wconf 44' lang='lat' dir='ltr'>stfflmfflff</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 638 2049 833 2060">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 638 2049 833 2060">
+     <span class='ocr_line' id='line_1_5' title="bbox 638 2049 833 2060; baseline 0 528"><span class='ocrx_word' id='word_1_12' title='bbox 638 2049 833 2060; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1048 2499 1833 2565">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1048 2499 1833 2565">
+     <span class='ocr_line' id='line_1_6' title="bbox 1048 2499 1833 2565; baseline -0.013 1"><span class='ocrx_word' id='word_1_13' title='bbox 1048 2499 1148 2565; x_wconf 67' lang='lat'>13</span> <span class='ocrx_word' id='word_1_14' title='bbox 1528 2501 1833 2556; x_wconf 65' lang='lat' dir='ltr'>mmm</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

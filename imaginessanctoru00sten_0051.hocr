@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./imaginessanctoru00sten_0051.png"; bbox 0 0 2028 2588; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 411 0 1793 107">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 411 0 1793 107">
+     <span class='ocr_line' id='line_1_1' title="bbox 411 0 1793 107; baseline -0.017 -27"><span class='ocrx_word' id='word_1_1' title='bbox 411 101 417 107; x_wconf 19' lang='lat'>⁶</span> <span class='ocrx_word' id='word_1_2' title='bbox 475 9 536 78; x_wconf 80' lang='lat' dir='ltr'>s.</span> <span class='ocrx_word' id='word_1_3' title='bbox 629 0 1288 86; x_wconf 74' lang='lat' dir='ltr'><strong>BENEmCTvs.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1702 11 1793 70; x_wconf 68' lang='lat'>47</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 273 174 1502 2170">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 273 174 1502 2170">
+     <span class='ocr_line' id='line_1_2' title="bbox 273 174 1502 2170; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 273 174 1502 2170; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1430 2483 1823 2546">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1430 2483 1823 2546">
+     <span class='ocr_line' id='line_1_3' title="bbox 1430 2483 1823 2546; baseline -0.025 -7"><span class='ocrx_word' id='word_1_6' title='bbox 1430 2483 1572 2545; x_wconf 62' lang='lat' dir='ltr'>xm</span> <span class='ocrx_word' id='word_1_7' title='bbox 1581 2483 1823 2546; x_wconf 69' lang='lat' dir='ltr'>ILMAR.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
